@@ -258,5 +258,5 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 def setup(app):
-    app.add_stylesheet('css/sphinx_prompt_css.css')
+    app.add_stylesheet('css/custom.css')
     app.add_javascript('js/custom.js')
