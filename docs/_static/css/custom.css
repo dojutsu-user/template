@@ -1,0 +1,7 @@
+.search__result__single {
+  border-bottom: 3px solid red;
+}
+
+.search__result__single:hover {
+  background-color: teal;
+}

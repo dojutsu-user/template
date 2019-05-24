@@ -1,1 +1,1 @@
-var RTD_NO_SEARCH = false;
+var RTD_NO_SEARCH = true;
