@@ -29,6 +29,7 @@ import os
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx_search.extension']
+rtd_sphinx_search_file_type = 'un-minified'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
