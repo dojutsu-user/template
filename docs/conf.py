@@ -133,6 +133,9 @@ html_static_path = ['_static']
 html_js_files = [
    'js/custom.js',
 ]
+html_css_files = [
+    'css/custom.css',
+]
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
